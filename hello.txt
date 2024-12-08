@@ -1,1 +1,2 @@
 fix ajka FETCH este raz
+1.commit
