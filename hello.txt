@@ -1,6 +1,12 @@
 zmena1 dnes je skvely den
 
 chcem teraz tuto vetvu zluzit do main vetvy
+<<<<<<< HEAD
 moj dalsi commit
 
 idem spravit konflikt
+=======
+
+
+tot je nove
+>>>>>>> 5047ee5584c25b44efc0d42701a9da04a4502043
