@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-fix ajka FETCH este raz
-5.commit
-
-zmena1 dnes je skvely den
-
-chcem teraz tuto vetvu zluzit do main vetvy
-moj dalsi commit
-
-idem spravit konflikt
-=======
-
-
-tot je nove
-
+zmena
