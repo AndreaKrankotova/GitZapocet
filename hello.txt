@@ -1,4 +1,6 @@
 zmena1 dnes je skvely den
 
 chcem teraz tuto vetvu zluzit do main vetvy
-moj dalsi commit
+
+
+tot je nove
